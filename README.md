@@ -1,5 +1,3 @@
-# Yaaqas-rata.rata
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFF00&size=30&center=true&vCenter=true&width=600&height=65&lines=Haii..;++;Perkenalkan,++saya;++YAZID+AQIL+ASSALAM😉;PROGRAM+STUDI+INFORMATIKA;DEPARTEMEN+TEKNIK+ELEKTRONIKA;UNIVERSITAS+NEGERI+PADANG;"></a>
 </p>
