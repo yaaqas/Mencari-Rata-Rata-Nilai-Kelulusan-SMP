@@ -7,11 +7,10 @@
 ✍️ Created By : Yazid Aqil Assalam
 ```
 
-<h2>🛠&nbsp;Tujuan</h2>
-  
-```
-Tujuan program ini adalah untuk membantu dalam menganalisis dan menghitung rata-rata nilai kelulusan Ujian Nasional SMP sehingga dapat memberikan gambaran tentang tingkat pencapaian siswa dalam ujian tersebut. Dengan demikian, program ini diharapkan dapat membantu tenaga pendidik dalam mengidentifikasi tingkat pencapaian siswa di sekolah pada tingkat SMP.
-```
+<h1>Tujuan</h1>
+<div align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Tujuan program ini adalah untuk membantu dalam menganalisis dan menghitung rata-rata nilai kelulusan Ujian Nasional SMP sehingga dapat memberikan gambaran tentang tingkat pencapaian siswa dalam ujian tersebut. Dengan demikian, program ini diharapkan dapat membantu tenaga pendidik dalam mengidentifikasi tingkat pencapaian siswa di sekolah pada tingkat SMP.
+</div>
 
 ---
 <h1><b>Connect with Me</b></h1>
