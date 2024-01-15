@@ -6,7 +6,7 @@
 ✍️ Mencari Rata Rata Nilai Kelulusan Ujian Nasional SMP
 ```
 
-<h2>🛠&nbsp;Modul</h2><summary></summary>
+<h2>🛠&nbsp;Modul</h2>
   
 ```
 Tujuan :
